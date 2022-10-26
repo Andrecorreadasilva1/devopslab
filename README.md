@@ -1,2 +1,2 @@
 # DevOps Hands On
-Aplicação Simples em Python/Flask com teste usando Unittest 
+Inserindo Bug em app.py e ativando Sonar Quality Gateway 
